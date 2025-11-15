@@ -2,6 +2,7 @@
 
 ## 📋 Overview
 An advanced machine learning-powered log analysis platform that automatically detects anomalies, predicts incidents, identifies error patterns, and provides real-time system health monitoring with actionable insights for production systems.
+<img width="1993" height="1390" alt="image" src="https://github.com/user-attachments/assets/4f546044-5d2e-4dfd-a319-d8dae6684b54" />
 
 ## 🎯 Key Features
 - **ML-Based Anomaly Detection**: Isolation Forest algorithm for unsupervised anomaly detection
