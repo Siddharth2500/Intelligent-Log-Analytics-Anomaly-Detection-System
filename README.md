@@ -37,7 +37,7 @@ main()
 ```
 
 ## 📊 Sample Output
-```
+````````
 📊 Intelligent Log Analytics & Anomaly Detection System
 ================================================================================
 
