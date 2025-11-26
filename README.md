@@ -274,7 +274,7 @@ The system creates a comprehensive 9-panel analytics dashboard:
 - Anomaly rate (max -15 points)
 - Critical incidents (5 points each)
 - High incidents (2 points each)
-```
+`````````
 
 ## 💡 Real-World Use Cases
 
