@@ -15,7 +15,7 @@ An advanced machine learning-powered log analysis platform that automatically de
 - **Performance Metrics**: P95, P99 response times, error rates, success rates
 - **Automated Alerting**: Severity-based incident prioritization
 - **Time-Series Analysis**: Hourly, daily, and weekly pattern detection
--------------
+---------------
 ## 🛠️ Technology Stack
 - **Python 3.8+**
 - **Machine Learning**: Isolation Forest (sklearn), DBSCAN clustering
