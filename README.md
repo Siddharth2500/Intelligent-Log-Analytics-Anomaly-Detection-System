@@ -140,7 +140,7 @@ Top 5 Most Frequent Errors:
   5. Service unavailable: 76 occurrences
 
 ⚠️  PREDICTED INCIDENTS
---------------------------------------------------------------------------------
+--------------------------------------------------------------------
 Total Incidents Predicted:      47
   • Critical:                   3
   • High:                       12
